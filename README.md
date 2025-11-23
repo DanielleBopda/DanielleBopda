@@ -13,7 +13,7 @@ I combine analytical precision with empathy and clarity — designing solutions 
 ---
 
 ## 🚀 Featured Projects  
-### 🔐 **AI-Driven Intrusion Detection | Cybersecurity (Flagship Project)**  
+### 🔐 **AI-Driven Intrusion Detection System | Cybersecurity (Flagship Project)**  
 Machine learning–powered threat classification on 2.8M+ network flows using CICIDS2017.  
 → Machine learning–driven early attack detection with Decision Tree and Neural Network models.
 
