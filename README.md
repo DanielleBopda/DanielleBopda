@@ -5,10 +5,10 @@
 ---
 
 ## 🌟 About Me  
-I am a Data Scientist & Business Analyst with a background in healthcare and a mission to build AI and analytics solutions that solve real operational problems.  
+I am a Data Scientist and Business Analyst with a background in healthcare and a mission to build AI and analytics solutions that solve real operational problems.  
 My work spans across **cybersecurity**, **responsible AI**, **healthcare automation**, **data engineering**, and **business intelligence**.
 
-I combine analytical precision with empathy and clarity — designing solutions that produce measurable, trustworthy impact.
+I combine analytical precision with empathy and clarity which leads to designing solutions that produce measurable, trustworthy impact.
 
 ---
 
