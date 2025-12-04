@@ -8,7 +8,7 @@
 I am a Data Scientist and Business Analyst with a background in healthcare and a mission to build AI and analytics solutions that solve real operational problems.  
 My work spans across **cybersecurity**, **responsible AI**, **healthcare automation**, **data engineering**, and **business intelligence**.
 
-I combine analytical precision with empathy and clarity which leads to designing solutions that produce measurable, trustworthy impact.
+I combine analytical precision with empathy and clarity which leads to designing solutions that produce measurable, trustworthy impact for people, teams, and organizations.
 
 ---
 
@@ -28,13 +28,13 @@ Bias detection, mitigation, and explainability applied to credit modeling.
 ---
 
 ## 📊 Skills & Tools  
-**Machine Learning:** Classification, regression, pipelines, feature engineering  
+**Machine Learning:** Classification, regression, pipelines, feature engineering, Deep Learning, NLP, model yuning  
 **Cybersecurity Analytics:** IDS modeling, threat detection, anomaly detection  
-**Responsible AI:** Fairness metrics, mitigation strategies, model explainability  
-**Cloud:** AWS Lex, Lambda, Cognito, S3  
-**Data Engineering:** ETL pipelines, data lakes, ingestion, transformation  
-**Visualization:** Power BI, Matplotlib, Seaborn  
-**Programming:** Python, SQL   
+**Responsible AI:** Fairness metrics, mitigation strategies, model explainability, Explainable AI (SHAP)
+**Cloud:** AWS Lex, Lambda, Cognito, Athena, Glue, S3, EC2, SageMaker
+**Data Engineering:** ETL pipelines, data lakes, ingestion, transformation, API Integration, Model Versioning & Governance  
+**Visualization:** Power BI, Matplotlib, Seaborn, Matplotlib, KPI Design, Executive Dashboards  
+**Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL, Jupyter Notebook   
 
 ---
 
@@ -53,7 +53,7 @@ Explore full documentation, visuals, architecture diagrams, and business impact:
 ---
 
 ## 🤝 Let’s Connect  
-🔗 LinkedIn: www.linkedin.com/in/daniellecbopda  
+🔗 LinkedIn: www.linkedin.com/in/daniellebopda  
 🔗 Portfolio: https://datascienceportfol.io/daniellecbopda  
 🔗 GitHub: https://github.com/DanielleBopda  
 🔗 Email: daniellebopda@gmail.com 
